@@ -1,0 +1,29 @@
+_repo: La-Princesse-lointaine-Piece-en-quatre-actes-en-vers_64862
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rostand, Edmond
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '575'
+    url: http://www.gutenberg.org/2009/agents/575
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Edmond_Rostand
+    - https://en.wikipedia.org/wiki/Edmond_Rostand
+description: ''
+gutenberg_issued: '2021-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64862'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Drama'
+- !lcc 'PQ'
+- !lcsh 'Princesses -- Drama'
+- !lcsh 'French drama -- 19th century'
+- GITenberg
+title: 'La Princesse lointaine: Pièce en quatre actes, en vers'
+url: http://www.gutenberg.org/ebooks/64862
